@@ -1,3 +1,3 @@
 # КУХНИ под ЗАКАЗ 
 ***
-##LandingPage кухни под заказ на Wordpress
+## LandingPage кухни под заказ на Wordpress
